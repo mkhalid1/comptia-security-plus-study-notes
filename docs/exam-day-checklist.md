@@ -15,7 +15,7 @@ A short list to get you into the exam calm, on time and with nothing left to cha
 
 | | Test center | Online (OnVUE) |
 |---|---|---|
-| Arrive or check in | Arrive early to sign in and store your things | Start the check-in early; it involves photos of you, your ID and your room |
+| Arrive or check in | Arrive early to sign in and store your things | Start the check-in early and follow the steps in your Pearson VUE confirmation |
 | Room | Provided | A private, quiet room with a clear desk |
 | Recording | Center rules apply | Recorded through your webcam. If you do not want to be recorded, CompTIA advises testing at a center |
 | Breaks | Follow the center's rules | No scheduled breaks; the exam is meant to be done in one sitting |
