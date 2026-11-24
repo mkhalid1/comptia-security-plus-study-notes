@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Security+ SY0-701 exam explained](exam-overview.md) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Security+ SY0-701 exam explained](exam-overview.md) · Next: [5-minute diagnostic](diagnostic.md)<!-- /nav:top -->
 
 # SY0-701 or SY0-801: which version to take
 
@@ -50,4 +50,4 @@ Every domain page, practice item and study plan in this repo follows the SY0-701
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Security+ SY0-701 exam explained](exam-overview.md) | Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [The Security+ SY0-701 exam explained](exam-overview.md) | Next: [5-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->

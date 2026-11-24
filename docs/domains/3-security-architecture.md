@@ -183,7 +183,7 @@ Most items take under a minute. Diagram-based PBQs in this domain can take sever
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
+These 4 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
 
 ### Item 1
 
@@ -208,6 +208,7 @@ D. Nobody, because IaaS images are patched automatically
 
 </details>
 
+
 ### Item 2
 
 A hospital installs a device that inspects traffic to its patient monitoring network. The monitors must never lose connectivity, even if the security device fails. How should the device be configured?
@@ -231,53 +232,8 @@ D. In front of the monitors as a WAF
 
 </details>
 
+
 ### Item 3
-
-Administrators must manage database servers in a restricted zone. Security wants one hardened, heavily logged entry point for all admin sessions into that zone. What should be deployed?
-
-A. A forward proxy
-
-B. A load balancer
-
-C. A jump server
-
-D. A honeypot
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** A jump server is a hardened host that admins connect to first, and from which they reach the sensitive systems. It concentrates access and logging in one place. (Objective 3.2)
-
-- **A** is wrong because a forward proxy handles outbound requests, usually web traffic for users.
-- **B** is wrong because a load balancer spreads traffic across servers; it does not control admin access.
-- **D** is wrong because a honeypot is a decoy for attackers, not an access path for admins.
-
-</details>
-
-### Item 4
-
-A company wants new laptops plugged into office wall ports to get no network access until the device authenticates to a RADIUS server. What should it implement?
-
-A. 802.1X
-
-B. MAC filtering only
-
-C. A screened subnet
-
-D. SD-WAN
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** 802.1X is port-based network access control: the switch holds the port closed until the device authenticates, usually via EAP to a RADIUS server. (Objective 3.2)
-
-- **B** is wrong because MAC filtering does not authenticate the device and MAC addresses are easy to spoof.
-- **C** is wrong because a screened subnet is a zone for public-facing servers, not an access control for wall ports.
-- **D** is wrong because SD-WAN manages links between sites.
-
-</details>
-
-### Item 5
 
 A retailer must be able to resume online sales within one hour of losing its primary data center. Which recovery site meets the requirement?
 
@@ -300,99 +256,8 @@ D. Hot site
 
 </details>
 
-### Item 6
 
-A payroll file is being sent from HR to an external accounting firm over the internet. Which state is the data in, and what control fits it?
-
-A. In use; a secure enclave
-
-B. At rest; full-disk encryption
-
-C. In transit; TLS
-
-D. At rest; tokenization
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** Data moving across a network is in transit, and TLS encrypts it on the way. (Objective 3.3)
-
-- **A** is wrong because data in use is being processed in memory, not sent between organizations.
-- **B** is wrong because full-disk encryption protects stored data, not data on the wire.
-- **D** is wrong because the file is moving, and tokenization substitutes values rather than protecting a transfer.
-
-</details>
-
-### Item 7
-
-A web application keeps being hit by SQL injection and cross-site scripting attempts. Which control is designed to inspect HTTP requests for these attacks?
-
-A. Layer 4 firewall
-
-B. UPS
-
-C. Network tap
-
-D. Web application firewall
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: D.** A WAF inspects HTTP traffic for web attacks such as SQL injection and XSS. It complements, and does not replace, fixing the code. (Objective 3.2)
-
-- **A** is wrong because a Layer 4 firewall sees only addresses and ports, so it cannot tell a malicious query from a normal one on port 443.
-- **B** is wrong because a UPS provides power, not inspection.
-- **C** is wrong because a tap only copies traffic for monitoring and cannot block anything.
-
-</details>
-
-### Item 8
-
-A factory's industrial control system runs software that the vendor says cannot be patched without voiding its safety certification. Which approach BEST reduces risk?
-
-A. Patch it anyway during the next maintenance window
-
-B. Connect it directly to the corporate network so it can be monitored more easily
-
-C. Isolate it on its own segment, or air gap it, and tightly control what can reach it
-
-D. Replace its RTOS with a general-purpose OS
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** When a system cannot be patched, you reduce exposure: isolation or segmentation, strict access rules and monitoring at the boundary. (Objective 3.1)
-
-- **A** is wrong because it ignores the stated constraint and risks the safety certification.
-- **B** is wrong because joining it to the corporate network increases its attack surface.
-- **D** is wrong because swapping the OS is not something the operator can do to a certified control system, and it would break the real-time requirements.
-
-</details>
-
-### Item 9
-
-A backup administrator needs to restore a database to its state at 14:37 yesterday, between two nightly backups. Which capability makes this possible?
-
-A. Journaling
-
-B. A cold site
-
-C. Load balancing
-
-D. A generator
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Journaling records each change, so the database can be restored from the last full backup and the journal replayed up to a chosen point in time. (Objective 3.4)
-
-- **B** is wrong because a cold site is an empty facility; it says nothing about restore points.
-- **C** is wrong because load balancing spreads traffic; it does not keep history.
-- **D** is wrong because a generator provides power.
-
-</details>
-
-### Item 10
+### Item 4
 
 A company is designing a new branch office network. Choose two statements that are TRUE.
 
@@ -417,16 +282,18 @@ E. In SaaS, the provider is responsible for deciding which employees get account
 
 </details>
 
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | B | C | A | D | C | D | C | A | B, D |
-| Objective | 3.1 | 3.2 | 3.2 | 3.2 | 3.4 | 3.3 | 3.2 | 3.1 | 3.4 | 3.1, 3.3 |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | B | B | D | B, D |
+| Objective | 3.1 | 3.2 | 3.4 | 3.1, 3.3 |
 
-- **9 to 10:** you can reason about designs. Move on.
-- **7 to 8:** check whether your misses were about failure modes, cloud responsibility or recovery sites, and reread that table in [Key concepts](#key-concepts-explained).
-- **6 or fewer:** draw a simple network from memory with internet, firewall, DMZ, internal LAN and server zone, and place a WAF, IPS, jump server and load balancer on it. Then reread [3.2 Securing enterprise infrastructure](#32-securing-enterprise-infrastructure) and redo the items.
+- **4:** you can reason about designs. Move on.
+- **3:** check whether your misses were about failure modes, cloud responsibility or recovery sites, and reread that table in [Key concepts](#key-concepts-explained).
+- **2 or fewer:** draw a simple network from memory with internet, firewall, DMZ, internal LAN and server zone, and place a WAF, IPS, jump server and load balancer on it. Then reread [3.2 Securing enterprise infrastructure](#32-securing-enterprise-infrastructure) and redo the items.
 
 ## Next step
 

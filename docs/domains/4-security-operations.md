@@ -276,55 +276,9 @@ With roughly a quarter of the exam here, pace matters. Keep multiple-choice item
 
 ## Practice items
 
-These 14 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
+These 4 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
 
 ### Item 1
-
-A company lets staff pick a phone from a list of three approved models. The company buys and owns the phones and manages them with MDM. Which deployment model is this?
-
-A. BYOD
-
-B. CYOD
-
-C. COPE
-
-D. VDI
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** Choose your own device means the employee chooses from an approved list of company-owned devices. (Objective 4.1)
-
-- **A** is wrong because in BYOD the employee owns the device.
-- **C** is wrong because in COPE the company chooses and issues the device; the defining feature here is that the employee picks from a list.
-- **D** is wrong because VDI is a way of delivering desktops, not a device ownership model.
-
-</details>
-
-### Item 2
-
-An IT team is retiring 40 laptops that held customer data. The auditors want proof that the data cannot be recovered. What should the team obtain?
-
-A. A purchase order from the recycling company
-
-B. An updated asset inventory showing the laptops as missing
-
-C. A certificate of sanitization or destruction
-
-D. A data retention policy
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** Certification documents that the media was sanitized or destroyed, giving auditors evidence. (Objective 4.2)
-
-- **A** is wrong because a purchase order proves a transaction, not data destruction.
-- **B** is wrong because marking devices as missing is the opposite of controlled disposal.
-- **D** is wrong because a retention policy says how long to keep data; it is not proof of destruction.
-
-</details>
-
-### Item 3
 
 A scan reports these findings. Which should the team remediate FIRST?
 
@@ -355,53 +309,8 @@ D. pay-web-01, because it is internet-facing and holds cardholder data
 
 </details>
 
-### Item 4
 
-A vulnerability scanner reports that a web server is missing a patch. An administrator checks and confirms the patch was installed last week and the version string is current. What is this?
-
-A. False negative
-
-B. False positive
-
-C. True positive
-
-D. Zero-day
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** The scanner reported a problem that does not exist, which is a false positive. (Objective 4.3)
-
-- **A** is wrong because a false negative is a real problem the scanner missed.
-- **C** is wrong because the finding turned out not to be real.
-- **D** is wrong because a zero-day is an unpatched, unknown flaw, not a scanner mistake.
-
-</details>
-
-### Item 5
-
-A security team wants to see which internal hosts talked to an external IP address last night and how much data each sent, without storing full packet contents. Which data source fits BEST?
-
-A. NetFlow
-
-B. SNMP traps
-
-C. Packet captures
-
-D. Antivirus logs
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** NetFlow records conversations: source, destination, ports, times and volume, without payloads. (Objectives 4.4 and 4.9)
-
-- **B** is wrong because SNMP traps are device alerts, such as an interface going down.
-- **C** is wrong because packet captures store full contents, which the team does not want and may not have for last night.
-- **D** is wrong because antivirus logs record malware detections, not traffic volumes.
-
-</details>
-
-### Item 6
+### Item 2
 
 Read this firewall rule set. Rules are processed top to bottom, first match wins.
 
@@ -433,7 +342,8 @@ D. Add a rule allowing UDP 22
 
 </details>
 
-### Item 7
+
+### Item 3
 
 A company receives reports that phishing emails appear to come from its own domain. It wants receiving mail servers to reject messages that fail authentication checks and to send it reports. Which record should it publish?
 
@@ -456,76 +366,8 @@ D. An MX record pointing to the gateway
 
 </details>
 
-### Item 8
 
-A user logs in with a password and then enters a code from an authenticator app on her phone. Which two factor categories are used?
-
-A. Something you know and something you are
-
-B. Something you have and somewhere you are
-
-C. Something you know twice
-
-D. Something you know and something you have
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: D.** The password is something you know, and the app on her phone is something you have. (Objective 4.6)
-
-- **A** is wrong because no biometric is used.
-- **B** is wrong because location is not checked, and the password is a knowledge factor.
-- **C** is wrong because the code comes from a device she possesses, which is a different category.
-
-</details>
-
-### Item 9
-
-A partner portal lets employees of a supplier sign in with their own company's credentials. The supplier's identity provider sends signed XML assertions to the portal. Which technology is this?
-
-A. LDAP
-
-B. RADIUS
-
-C. SAML
-
-D. Kerberos within a single domain
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** SAML passes XML-based authentication assertions from an identity provider to a service provider, enabling federated SSO between organizations. (Objective 4.6)
-
-- **A** is wrong because LDAP queries a directory; it does not exchange signed assertions between organizations.
-- **B** is wrong because RADIUS provides AAA for network access such as VPN and Wi-Fi.
-- **D** is wrong because the trust here crosses two organizations, which is federation, not a single internal domain.
-
-</details>
-
-### Item 10
-
-Database administrators currently hold permanent admin rights. The CISO wants admin rights granted only for an approved task and removed automatically when it ends. Which approach fits?
-
-A. Just-in-time permissions
-
-B. Password expiration every 30 days
-
-C. Role-based access control with a permanent admin role
-
-D. Single sign-on
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Just-in-time permissions, a privileged access management feature, grant elevated rights for a limited time and remove them afterwards. (Objective 4.6)
-
-- **B** is wrong because changing passwords does not remove standing admin rights.
-- **C** is wrong because a permanent role is exactly what the CISO wants to get rid of.
-- **D** is wrong because SSO makes logging in easier; it does not limit privilege duration.
-
-</details>
-
-### Item 11
+### Item 4
 
 An analyst confirms that ransomware is active on three file servers and spreading. What should the team do FIRST?
 
@@ -548,87 +390,18 @@ D. Reimage every workstation in the company
 
 </details>
 
-### Item 12
-
-A laptop is being collected as evidence in a fraud investigation. Choose two actions that support its use in court.
-
-A. Record every person who handles the laptop, with times and reasons
-
-B. Boot the laptop to check what is on it before imaging
-
-C. Create a forensic image and compare hash values of the original and the copy
-
-D. Delete temporary files to make analysis faster
-
-E. Let the user keep the laptop until the investigation is complete
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A and C.** Chain of custody records who handled the evidence. Imaging and matching hashes show the copy is identical and the original was not changed. (Objective 4.8)
-
-- **B** is wrong because booting the laptop changes data on it and can damage the evidence.
-- **D** is wrong because deleting anything alters the evidence.
-- **E** is wrong because leaving it with the user breaks the chain of custody.
-
-</details>
-
-### Item 13
-
-A security team writes a script that creates a ticket and disables a user's VPN access automatically whenever the SIEM detects impossible travel for that user. Which is a benefit of this automation, and which is a risk? Choose the BEST pair.
-
-A. Benefit: reaction time. Risk: the script becomes a single point of failure if it breaks.
-
-B. Benefit: more complexity. Risk: faster response.
-
-C. Benefit: removes the need for a SIEM. Risk: none.
-
-D. Benefit: employee retention. Risk: reduced reaction time.
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Automation responds in seconds, which improves reaction time. If the script fails and nobody notices, every such alert goes unhandled: a single point of failure. (Objective 4.7)
-
-- **B** is wrong because it swaps a cost (complexity) and a benefit (faster response).
-- **C** is wrong because the script depends on the SIEM, and every automation carries some risk.
-- **D** is wrong because automation improves reaction time; it does not reduce it.
-
-</details>
-
-### Item 14
-
-An investigator wants to know whether a suspicious photo attached to an email was taken at the company's warehouse. Which data source is MOST likely to help?
-
-A. Firewall logs
-
-B. Vulnerability scans
-
-C. The photo's metadata
-
-D. IPS logs
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** Image metadata can include the capture time, device and GPS coordinates. (Objective 4.9)
-
-- **A** is wrong because firewall logs show connections, not where a photo was taken.
-- **B** is wrong because scans show weaknesses on hosts.
-- **D** is wrong because IPS logs record attacks matched on the network.
-
-</details>
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | C | D | B | A | C | B | D | C | A | B | A, C | A | C |
-| Objective | 4.1 | 4.2 | 4.3 | 4.3 | 4.4 | 4.5 | 4.5 | 4.6 | 4.6 | 4.6 | 4.8 | 4.8 | 4.7 | 4.9 |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | D | C | B | B |
+| Objective | 4.3 | 4.5 | 4.5 | 4.8 |
 
-- **13 to 14:** strong. Keep this domain warm with mixed practice, since it carries the most weight.
-- **10 to 12:** list the objectives you missed. Firewall order, email authentication and incident steps are the usual weak spots; reread those parts of [Key concepts](#key-concepts-explained).
-- **9 or fewer:** spend two study sessions here. Write the incident response steps and the MFA factor list from memory, then read [4.5 Enhancing enterprise capabilities](#45-enhancing-enterprise-capabilities) and [4.6 Identity and access management](#46-identity-and-access-management) again before redoing the items.
+- **4:** strong. Keep this domain warm with mixed practice, since it carries the most weight.
+- **3:** list the objectives you missed. Firewall order, email authentication and incident steps are the usual weak spots; reread those parts of [Key concepts](#key-concepts-explained).
+- **2 or fewer:** spend two study sessions here. Write the incident response steps and the MFA factor list from memory, then read [4.5 Enhancing enterprise capabilities](#45-enhancing-enterprise-capabilities) and [4.6 Identity and access management](#46-identity-and-access-management) again before redoing the items.
 
 ## Next step
 

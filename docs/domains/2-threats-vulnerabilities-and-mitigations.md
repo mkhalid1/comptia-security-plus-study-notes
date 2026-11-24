@@ -187,7 +187,7 @@ Most items here are quick once you spot the clue. Aim for under a minute each. L
 
 ## Practice items
 
-These 11 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
+These 4 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
 
 ### Item 1
 
@@ -212,82 +212,8 @@ D. Organized crime
 
 </details>
 
+
 ### Item 2
-
-Several employees receive a text message that appears to come from the company's parcel courier, asking them to tap a link to reschedule a delivery. Which term BEST describes this?
-
-A. Vishing
-
-B. Smishing
-
-C. Watering hole
-
-D. Pretexting by email
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** Phishing delivered by SMS text message is smishing. (Objective 2.2)
-
-- **A** is wrong because vishing uses voice calls.
-- **C** is wrong because a watering hole attack compromises a website the targets already visit.
-- **D** is wrong because the message arrived by text, not email.
-
-</details>
-
-### Item 3
-
-A security analyst reviews this web server log entry:
-
-```
-GET /download?file=../../../../etc/passwd HTTP/1.1  200
-```
-
-Which attack is being attempted?
-
-A. Cross-site scripting
-
-B. SQL injection
-
-C. Buffer overflow
-
-D. Directory traversal
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: D.** The repeated `../` sequences try to climb out of the web folder to read a system file. That is directory traversal. The 200 status suggests it may have worked. (Objective 2.4)
-
-- **A** is wrong because XSS injects script, such as `<script>` tags, into pages viewed by other users.
-- **B** is wrong because SQL injection inserts SQL syntax such as quotes and `OR 1=1` into a query.
-- **C** is wrong because a buffer overflow sends input far longer than expected, not a file path.
-
-</details>
-
-### Item 4
-
-The identity team sees a login for a sales manager from Chicago at 09:02 and another from Singapore at 09:40 the same morning. Which indicator is this?
-
-A. Impossible travel
-
-B. Account lockout
-
-C. Out-of-cycle logging
-
-D. Resource inaccessibility
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Nobody can travel from Chicago to Singapore in 38 minutes, so at least one login is likely from someone using stolen credentials. (Objective 2.4)
-
-- **B** is wrong because no lockout is described; both logins succeeded.
-- **C** is wrong because out-of-cycle logging refers to log entries at unexpected times, not to the location of logins.
-- **D** is wrong because nothing became unavailable.
-
-</details>
-
-### Item 5
 
 The authentication logs show the following pattern over one hour:
 
@@ -318,7 +244,8 @@ D. Birthday attack
 
 </details>
 
-### Item 6
+
+### Item 3
 
 A developer's code builds this query from a search box: `"SELECT * FROM products WHERE name = '" + input + "'"`. Which change BEST removes the vulnerability?
 
@@ -341,53 +268,8 @@ D. Run the database server on a separate VLAN
 
 </details>
 
-### Item 7
 
-A file server's CPU sits at 100% overnight, and an analyst finds an unknown process connecting to a cryptocurrency mining pool. Which indicator FIRST pointed to the problem?
-
-A. Resource consumption
-
-B. Concurrent session usage
-
-C. Blocked content
-
-D. Missing logs
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Unusually high CPU use with no business reason is a resource consumption indicator, typical of crypto-mining malware. (Objective 2.4)
-
-- **B** is wrong because nothing suggests one account was logged in from two places.
-- **C** is wrong because no security tool reported blocking anything.
-- **D** is wrong because the analyst had enough information to find the process; there is no mention of gaps in the logs.
-
-</details>
-
-### Item 8
-
-A program on an employee laptop spread to 300 other machines overnight by exploiting a file-sharing vulnerability, with no one opening any file. What type of malware is this?
-
-A. Virus
-
-B. Trojan
-
-C. Logic bomb
-
-D. Worm
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: D.** Self-propagating malware that spreads across a network without user action is a worm. (Objective 2.4)
-
-- **A** is wrong because a virus attaches to files and usually needs a user to run or share them.
-- **B** is wrong because a Trojan relies on a user installing something that looks legitimate; it does not spread on its own.
-- **C** is wrong because a logic bomb waits for a trigger condition; nothing here describes a trigger.
-
-</details>
-
-### Item 9
+### Item 4
 
 A legacy medical device runs an operating system that the vendor no longer supports and cannot be replaced for a year. Choose two mitigations that BEST reduce its risk.
 
@@ -412,62 +294,18 @@ E. Allow the device to reach the internet so it can download updates
 
 </details>
 
-### Item 10
-
-Attackers send small queries with a spoofed source address to many open DNS resolvers. Each resolver sends a much larger answer to the victim's web server, which goes offline. Which description fits BEST?
-
-A. On-path attack
-
-B. Amplified, reflected DDoS
-
-C. DNS cache poisoning
-
-D. Credential replay
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** Spoofing the victim's address makes third-party resolvers reflect their answers to the victim, and the answers are bigger than the queries, which amplifies the flood. (Objective 2.4)
-
-- **A** is wrong because an on-path attacker sits between two parties to read or change traffic, not to flood a target.
-- **C** is wrong because poisoning plants false records in a resolver's cache; it does not take a server offline with traffic.
-- **D** is wrong because no credentials are involved.
-
-</details>
-
-### Item 11
-
-The marketing team signs up for an unapproved online design service and uploads customer lists to share files with an agency. Nobody intended harm. What is this an example of?
-
-A. Insider threat with a revenge motive
-
-B. Supply chain compromise
-
-C. Shadow IT
-
-D. Hacktivism
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** Staff using technology the organization has not approved, usually for convenience, is shadow IT. It creates risk even without bad intent. (Objective 2.1)
-
-- **A** is wrong because there is no sign of revenge or any intent to harm.
-- **B** is wrong because no vendor or supplier was compromised; the team chose an unapproved service.
-- **D** is wrong because hacktivists act from political or philosophical motives against a target.
-
-</details>
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | C | B | D | A | B | C | A | D | A, C | B | C |
-| Objective | 2.1 | 2.2 | 2.4 | 2.4 | 2.4 | 2.3 | 2.4 | 2.4 | 2.5 | 2.4 | 2.1 |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | C | B | C | A, C |
+| Objective | 2.1 | 2.4 | 2.3 | 2.5 |
 
-- **10 to 11:** you read attacks well. Keep the indicator table fresh and move on.
-- **8 to 9:** look at whether your misses were actors, attacks or mitigations, then reread that part of [Key concepts](#key-concepts-explained).
-- **7 or fewer:** make flash cards from the malware, application attack and indicator tables in [2.4 Indicators of malicious activity](#24-indicators-of-malicious-activity), and redo the items in two days.
+- **4:** you read attacks well. Keep the indicator table fresh and move on.
+- **3:** look at whether your misses were actors, attacks or mitigations, then reread that part of [Key concepts](#key-concepts-explained).
+- **2 or fewer:** make flash cards from the malware, application attack and indicator tables in [2.4 Indicators of malicious activity](#24-indicators-of-malicious-activity), and redo the items in two days.
 
 ## Next step
 

@@ -1,14 +1,14 @@
 # CompTIA Security+ SY0-701 Study Notes
 
-A free, complete study guide for the CompTIA Security+ SY0-701 exam. For each of the five official domains you get a plain-English explanation of every objective, comparison tables for the terms that get confused, how the questions look, a step-by-step method, the traps that cost points, and original practice items with full explanations: 55 across the domains, plus a 15-item diagnostic and two performance-based practice tasks. Every exam fact comes from CompTIA's own pages and the official objectives document, each one [cited](docs/sources.md).
+A free, complete study guide for the CompTIA Security+ SY0-701 exam. For each of the five official domains you get a plain-English explanation of every objective, comparison tables for the terms that get confused, how the questions look, a step-by-step method, the traps that cost points, and original practice items with full explanations: 20 across the domains, plus a 5-item diagnostic. Every exam fact comes from CompTIA's own pages and the official objectives document, each one [cited](docs/sources.md).
 
 > **Version note.** CompTIA launched Security+ **SY0-801** on November 17, 2026. **SY0-701** stays available until June 11, 2027 (English) and August 13, 2027 (Japanese, Portuguese, Spanish, Thai). These notes cover SY0-701. Not sure which to book? Read [SY0-701 or SY0-801](docs/which-version.md).
 
-Want to see where you stand first? Take the [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
-1. **Find your weak domains.** Take the [15-minute diagnostic](docs/diagnostic.md): three items from each domain, with a results table that tells you where to start.
+1. **Find your weak domains.** Take the [5-minute diagnostic](docs/diagnostic.md): one item from each domain, with a results table that tells you where to start.
 2. **Fix the weakest heavy domain first.** Open its guide below, read "Key concepts" and "Traps that cost points", then do its practice items. Security Operations is 28% of the exam, so a gap there costs the most.
 3. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your exam is close.
 
@@ -33,11 +33,11 @@ Sources: [CompTIA Security+ V7](https://www.comptia.org/en-us/certifications/sec
 
 | Domain | Weight | What it covers | Items | Guide |
 |---|---|---|---|---|
-| 1. General Security Concepts | 12% | Control types, CIA, AAA, Zero Trust, change management, cryptography and PKI | 10 | [Domain 1](docs/domains/1-general-security-concepts.md) |
-| 2. Threats, Vulnerabilities, and Mitigations | 22% | Threat actors, vectors, vulnerabilities, attack indicators, mitigations | 11 | [Domain 2](docs/domains/2-threats-vulnerabilities-and-mitigations.md) |
-| 3. Security Architecture | 18% | Cloud and on-premises models, secure infrastructure, data protection, resilience and recovery | 10 | [Domain 3](docs/domains/3-security-architecture.md) |
-| 4. Security Operations | 28% | Hardening, assets, vulnerability management, monitoring, firewalls and email security, identity, automation, incident response, investigations | 14 | [Domain 4](docs/domains/4-security-operations.md) |
-| 5. Security Program Management and Oversight | 20% | Governance, risk and its formulas, third parties, compliance, audits, awareness | 10 | [Domain 5](docs/domains/5-security-program-management-and-oversight.md) |
+| 1. General Security Concepts | 12% | Control types, CIA, AAA, Zero Trust, change management, cryptography and PKI | 4 | [Domain 1](docs/domains/1-general-security-concepts.md) |
+| 2. Threats, Vulnerabilities, and Mitigations | 22% | Threat actors, vectors, vulnerabilities, attack indicators, mitigations | 4 | [Domain 2](docs/domains/2-threats-vulnerabilities-and-mitigations.md) |
+| 3. Security Architecture | 18% | Cloud and on-premises models, secure infrastructure, data protection, resilience and recovery | 4 | [Domain 3](docs/domains/3-security-architecture.md) |
+| 4. Security Operations | 28% | Hardening, assets, vulnerability management, monitoring, firewalls and email security, identity, automation, incident response, investigations | 4 | [Domain 4](docs/domains/4-security-operations.md) |
+| 5. Security Program Management and Oversight | 20% | Governance, risk and its formulas, third parties, compliance, audits, awareness | 4 | [Domain 5](docs/domains/5-security-program-management-and-oversight.md) |
 
 Every domain guide has the same parts: what the domain measures (objective by objective), key concepts explained, how the questions look, a method, the traps that cost points, timing, original practice items with explanations, and a score table.
 
@@ -62,7 +62,7 @@ Every domain guide has the same parts: what the domain measures (objective by ob
   - [Is SY0-701 still valid?](docs/which-version.md#is-sy0-701-still-valid)
   - [Which should you choose?](docs/which-version.md#which-should-you-choose)
   - [What these notes cover](docs/which-version.md#what-these-notes-cover)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [5-minute diagnostic](docs/diagnostic.md)
   - [Part A: Domain 1, General Security Concepts](docs/diagnostic.md#part-a-domain-1-general-security-concepts)
   - [Part B: Domain 2, Threats, Vulnerabilities, and Mitigations](docs/diagnostic.md#part-b-domain-2-threats-vulnerabilities-and-mitigations)
   - [Part C: Domain 3, Security Architecture](docs/diagnostic.md#part-c-domain-3-security-architecture)
@@ -125,8 +125,6 @@ Every domain guide has the same parts: what the domain measures (objective by ob
   - [What PBQs are](docs/performance-based-questions.md#what-pbqs-are)
   - [A pacing plan for 90 minutes](docs/performance-based-questions.md#a-pacing-plan-for-90-minutes)
   - [How to approach a PBQ](docs/performance-based-questions.md#how-to-approach-a-pbq)
-  - [Practice task 1: order the steps](docs/performance-based-questions.md#practice-task-1-order-the-steps)
-  - [Practice task 2: build a firewall rule set](docs/performance-based-questions.md#practice-task-2-build-a-firewall-rule-set)
   - [Practice under time](docs/performance-based-questions.md#practice-under-time)
 - [How Security+ scoring works](docs/scoring.md)
   - [The scaled score](docs/scoring.md#the-scaled-score)

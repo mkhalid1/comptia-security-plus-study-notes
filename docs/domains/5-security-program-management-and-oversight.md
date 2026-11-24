@@ -210,7 +210,7 @@ Definition items here are quick, often 30 to 45 seconds. Give calculation items 
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
+These 4 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
 
 ### Item 1
 
@@ -235,6 +235,7 @@ D. A procedure, then a policy
 
 </details>
 
+
 ### Item 2
 
 A server worth 40,000 would lose 50% of its value in a fire. Fires are expected once every 10 years. What is the annualized loss expectancy?
@@ -258,30 +259,8 @@ D. 200,000
 
 </details>
 
+
 ### Item 3
-
-A company decides to buy a cyber insurance policy to cover the costs of a possible ransomware attack. Which risk strategy is this?
-
-A. Avoid
-
-B. Accept
-
-C. Transfer
-
-D. Mitigate
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** Insurance shifts the financial impact of the risk to the insurer. (Objective 5.2)
-
-- **A** is wrong because the company keeps doing the activity that creates the risk.
-- **B** is wrong because acceptance means taking the loss yourself without transferring it.
-- **D** is wrong because insurance does not make an attack less likely or less damaging to systems.
-
-</details>
-
-### Item 4
 
 The business says its order system can be down for at most 2 hours, and it cannot lose more than 15 minutes of orders. Which pair of values does this describe?
 
@@ -304,7 +283,8 @@ D. RTO of 2 hours, RPO of 15 minutes
 
 </details>
 
-### Item 5
+
+### Item 4
 
 A company and a nonprofit want to record that they intend to cooperate on a community security training program. Neither wants a legally binding contract. Which document fits BEST?
 
@@ -327,133 +307,18 @@ D. Statement of work
 
 </details>
 
-### Item 6
-
-A retailer hires a payroll company to run its staff payroll. The retailer decides what data is collected and why; the payroll company processes it under the retailer's instructions. What is the payroll company's role?
-
-A. Data subject
-
-B. Data owner
-
-C. Controller
-
-D. Processor
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: D.** A processor handles personal data on behalf of the controller, following its instructions. (Objective 5.4)
-
-- **A** is wrong because the data subjects are the employees whose data it is.
-- **B** is wrong because the retailer, not the payroll firm, is accountable for the data.
-- **C** is wrong because the retailer decides the purposes and means, which makes the retailer the controller.
-
-</details>
-
-### Item 7
-
-Penetration testers are given the company name and nothing else. They begin by reading the company's website, job adverts and public DNS records. Which description applies?
-
-A. Known environment; active reconnaissance
-
-B. Unknown environment; passive reconnaissance
-
-C. Partially known environment; active reconnaissance
-
-D. Unknown environment; active reconnaissance
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** Testers with no inside information are working in an unknown environment. Reading public sources without touching the company's systems is passive reconnaissance. (Objective 5.5)
-
-- **A** is wrong because they were given no internal details, and nothing they did touched the target's systems.
-- **C** is wrong because no partial information, such as IP ranges or credentials, was provided.
-- **D** is wrong because public websites and DNS records are read without interacting with the target's own systems in a detectable way.
-
-</details>
-
-### Item 8
-
-Before signing with a new cloud backup provider, a company reviews the provider's independent audit reports, financial stability and history of breaches. What is this activity called?
-
-A. Due diligence
-
-B. Attestation
-
-C. Rules of engagement
-
-D. Right to be forgotten
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Investigating a vendor's security, finances and reputation before choosing it is due diligence. (Objectives 5.3 and 5.4)
-
-- **B** is wrong because attestation is a formal statement that controls are in place; the company is reviewing evidence, not issuing one.
-- **C** is wrong because rules of engagement set limits for testing or vendor activity.
-- **D** is wrong because the right to be forgotten is a data subject's privacy right.
-
-</details>
-
-### Item 9
-
-After a simulated phishing campaign, 18% of staff clicked the link. Three months later, after training, a second campaign shows 6% clicked and twice as many people reported the email. Which part of a security awareness program does this comparison represent?
-
-A. Development of policy handbooks
-
-B. Initial and recurring reporting and monitoring
-
-C. Operational security training
-
-D. Insider threat recognition
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** Measuring results at the start and again on a recurring basis shows whether the program is changing behavior. (Objective 5.6)
-
-- **A** is wrong because writing handbooks is part of development, not the measurement shown here.
-- **C** is wrong because operational security is a training topic, not a way of measuring results.
-- **D** is wrong because the campaign measured phishing responses, not recognition of insiders.
-
-</details>
-
-### Item 10
-
-Choose two statements that are TRUE about risk.
-
-A. Risk appetite is the organization's broad willingness to take risk to meet its goals.
-
-B. Accepting a risk means it has been reduced to zero.
-
-C. A risk register records risks along with their owners and ratings.
-
-D. Avoiding a risk means buying insurance against it.
-
-E. A higher MTBF means a component fails more often.
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A and C.** Appetite is the broad stance on taking risk, and the register is the record of risks, owners, ratings and controls. (Objective 5.2)
-
-- **B** is wrong because acceptance means living with the risk as it is; nothing has been reduced.
-- **D** is wrong because insurance is transfer. Avoidance means stopping the activity.
-- **E** is wrong because a higher mean time between failures means the component runs longer between failures, so it fails less often.
-
-</details>
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | C | D | B | D | B | A | B | A, C |
-| Objective | 5.1 | 5.2 | 5.2 | 5.2 | 5.3 | 5.4 | 5.5 | 5.3 | 5.6 | 5.2 |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | B | A | D | B |
+| Objective | 5.1 | 5.2 | 5.2 | 5.3 |
 
-- **9 to 10:** governance vocabulary is solid. Keep the formulas handy and move on.
-- **7 to 8:** list the pairs you mixed up (RTO and RPO, policy and standard, MOU and SLA) and drill them with flash cards.
-- **6 or fewer:** reread [5.2 Risk management](#52-risk-management) and [5.3 Third-party risk](#53-third-party-risk), redo both worked examples on paper, then redo the items in two days.
+- **4:** governance vocabulary is solid. Keep the formulas handy and move on.
+- **3:** list the pairs you mixed up (RTO and RPO, policy and standard, MOU and SLA) and drill them with flash cards.
+- **2 or fewer:** reread [5.2 Risk management](#52-risk-management) and [5.3 Third-party risk](#53-third-party-risk), redo both worked examples on paper, then redo the items in two days.
 
 ## Next step
 

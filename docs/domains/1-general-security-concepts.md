@@ -1,4 +1,4 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md)<!-- /nav:top -->
+<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md)<!-- /nav:top -->
 
 # Domain 1: General Security Concepts
 
@@ -208,7 +208,7 @@ Domain 1 items are usually short. Aim for 45 to 60 seconds each so you bank time
 
 ## Practice items
 
-These 10 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
+These 4 items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider.
 
 ### Item 1
 
@@ -233,30 +233,8 @@ D. Corrective
 
 </details>
 
+
 ### Item 2
-
-Which of the following is a managerial control?
-
-A. A quarterly risk assessment signed off by the CISO
-
-B. Full-disk encryption on all laptops
-
-C. A security guard checking visitor IDs
-
-D. Bollards in front of the main entrance
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Managerial controls are about planning, policy and oversight of risk. A formal risk assessment is a classic example. (Objective 1.1)
-
-- **B** is wrong because encryption is enforced by technology, which makes it a technical control.
-- **C** is wrong because a guard checking IDs is a person carrying out a daily task, which is operational.
-- **D** is wrong because bollards are a physical barrier.
-
-</details>
-
-### Item 3
 
 An accountant receives an email that claims to come from the CFO approving a large payment. The finance team wants proof that the CFO really sent it and that the amount was not changed in transit. What should the CFO use?
 
@@ -279,53 +257,8 @@ D. Encrypt the email with a symmetric key shared by the whole finance team
 
 </details>
 
-### Item 4
 
-In a Zero Trust architecture, which component makes the decision to allow or deny a subject's access request?
-
-A. Policy Enforcement Point
-
-B. Policy Administrator
-
-C. Implicit trust zone
-
-D. Policy Engine
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: D.** The Policy Engine evaluates the request against policy and context and decides. The Policy Administrator then carries out that decision, and the enforcement point applies it in the traffic path. (Objective 1.2)
-
-- **A** is wrong because the enforcement point allows or blocks traffic as instructed; it does not make the decision.
-- **B** is wrong because the administrator acts on the engine's decision, for example by setting up or ending the session.
-- **C** is wrong because an implicit trust zone is an area behind an enforcement point, not a decision maker.
-
-</details>
-
-### Item 5
-
-A developer stores user passwords as SHA-256 hashes. An attacker steals the table and finds that many users share the same hash value. Which change would BEST stop identical passwords producing identical hashes?
-
-A. Switch to AES encryption of the passwords
-
-B. Add a unique random salt to each password before hashing
-
-C. Use a longer password hash such as SHA-512 without other changes
-
-D. Store the hashes on a separate server
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** A unique salt per password means two users with the same password get different hashes, which also defeats precomputed rainbow tables. Adding key stretching would further slow guessing. (Objective 1.4)
-
-- **A** is wrong because reversible encryption is a poorer choice for passwords: anyone with the key can recover them all.
-- **C** is wrong because without a salt, identical passwords still produce identical SHA-512 hashes.
-- **D** is wrong because moving the table does not change the fact that equal passwords hash the same.
-
-</details>
-
-### Item 6
+### Item 3
 
 A web team buys one certificate for `*.shop.example` to cover its sites. Which hostname will the certificate NOT cover?
 
@@ -346,76 +279,8 @@ D. `eu.api.shop.example`
 
 </details>
 
-### Item 7
 
-A change to a firewall rule was approved and applied during the maintenance window. Shortly after, the payroll application stopped working, and the team spent four hours trying to remember the previous configuration. Which part of change management was MOST clearly missing?
-
-A. Stakeholder sign-off
-
-B. Backout plan
-
-C. Maintenance window
-
-D. Ownership
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: B.** A backout plan records how to return to the previous state quickly. Without one, the team had to reconstruct the old rule from memory. (Objective 1.3)
-
-- **A** is wrong because the change was approved; better stakeholder input might have flagged the payroll dependency, but the four-hour outage came from having no way back.
-- **C** is wrong because the change did happen in the window.
-- **D** is wrong because nothing in the scenario says nobody owned the change.
-
-</details>
-
-### Item 8
-
-A company wants analysts to work with a customer database for testing without seeing real card numbers, but the payment system must still be able to process the real numbers. Which technique fits BEST?
-
-A. Tokenization
-
-B. Steganography
-
-C. Hashing
-
-D. Data masking on the production screens only
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: A.** Tokenization replaces each card number with a token. The test copy holds tokens only, while the payment system can swap a token back for the real number through the secure token vault. (Objective 1.4)
-
-- **B** is wrong because steganography hides data inside other files; it does not let analysts work with substitute values.
-- **C** is wrong because a hash cannot be turned back into the card number, so payments could not be processed from it.
-- **D** is wrong because masking production screens does not protect the test database, which would still hold real numbers.
-
-</details>
-
-### Item 9
-
-A security team places a file named `vpn-admin-passwords.docx` on a file share. Nobody has any business reason to open it, and opening it triggers an alert to the SOC. What is this?
-
-A. Honeypot
-
-B. Honeynet
-
-C. Honeyfile
-
-D. Honeytoken embedded in a database
-
-<details>
-<summary>Answer and explanation</summary>
-
-**Answer: C.** A honeyfile is a decoy file whose only purpose is to alert when someone touches it. (Objective 1.2)
-
-- **A** is wrong because a honeypot is a whole decoy system, not a single file.
-- **B** is wrong because a honeynet is a network of decoy systems.
-- **D** is wrong because a honeytoken is a fake credential or data record, and the scenario describes a document on a file share, not a record in a database.
-
-</details>
-
-### Item 10
+### Item 4
 
 A company is choosing where to keep the private signing keys for its internal certificate authority. The keys must be protected in tamper-resistant hardware and used by several servers. Choose two of the following that are TRUE.
 
@@ -440,16 +305,18 @@ E. Self-signed certificates are trusted by browsers without any extra setup.
 
 </details>
 
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
+
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | B | A | C | D | B | D | B | A | C | B, D |
-| Objective | 1.1 | 1.1 | 1.4 | 1.2 | 1.4 | 1.4 | 1.3 | 1.4 | 1.2 | 1.4 |
+| Item | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|
+| Answer | B | C | D | B, D |
+| Objective | 1.1 | 1.4 | 1.4 | 1.4 |
 
-- **9 to 10:** your foundations are solid. Move on to the heavier domains, especially [Domain 4](4-security-operations.md).
-- **7 to 8:** check which objective your misses share. If they are crypto items, redraw the symmetric vs asymmetric table and the "which key does what" rule in [Key concepts](#14-cryptographic-solutions) from memory.
-- **6 or fewer:** reread [1.1 Security controls](#11-security-controls) and [1.4 Cryptographic solutions](#14-cryptographic-solutions), then redo the items a day later without looking at the explanations.
+- **4:** your foundations are solid. Move on to the heavier domains, especially [Domain 4](4-security-operations.md).
+- **3:** check which objective your misses share. If they are crypto items, redraw the symmetric vs asymmetric table and the "which key does what" rule in [Key concepts](#14-cryptographic-solutions) from memory.
+- **2 or fewer:** reread [1.1 Security controls](#11-security-controls) and [1.4 Cryptographic solutions](#14-cryptographic-solutions), then redo the items a day later without looking at the explanations.
 
 ## Next step
 
@@ -459,4 +326,4 @@ E. Self-signed certificates are trusted by browsers without any extra setup.
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
