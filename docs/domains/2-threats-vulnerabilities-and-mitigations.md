@@ -473,7 +473,7 @@ D. Hacktivism
 
 1. Redo any item you missed without opening the explanation, and write the trap you fell for in one line.
 2. Open the security or sign-in log on a system you are allowed to inspect (for example Windows Event Viewer, Security log) and find a failed logon event. Note which fields would reveal spraying, brute force or impossible travel.
-3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practise pacing across the whole exam.
+3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practice pacing across the whole exam.
 
 ---
 

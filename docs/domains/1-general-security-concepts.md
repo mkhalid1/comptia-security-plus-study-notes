@@ -455,7 +455,7 @@ E. Self-signed certificates are trusted by browsers without any extra setup.
 
 1. Redo any item you missed without opening the explanation, and write the trap you fell for in one line.
 2. Open a website in your browser, view its certificate, and find the issuer, the validity dates, the subject alternative names and whether it chains to a root you trust. Then explain each field in one sentence.
-3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practise pacing across the whole exam.
+3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practice pacing across the whole exam.
 
 ---
 

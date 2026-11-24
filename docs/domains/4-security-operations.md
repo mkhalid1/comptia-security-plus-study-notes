@@ -634,7 +634,7 @@ D. IPS logs
 
 1. Redo any item you missed without opening the explanation, and write the trap you fell for in one line.
 2. Look up the SPF, DKIM and DMARC records for a domain you use (for example with `nslookup -type=txt example.com`, or the DMARC record at `_dmarc.example.com`) and explain what each one says.
-3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practise pacing across the whole exam.
+3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practice pacing across the whole exam.
 
 ---
 

@@ -8,7 +8,7 @@ Short version: you get a scaled score from 100 to 900, and you pass SY0-701 with
 
 CompTIA's help center says its exams use a mathematical algorithm to calculate a **scaled score**. The scaled score is derived from what would otherwise be a percentage score, and passing scores are set through statistical analysis. For SY0-701 the scale runs from 100 to 900 and the passing score is **750**.
 
-Because of the scaling, you cannot turn 750 into "you need 83% right". Different exam forms can have questions of slightly different difficulty, and the scaling is how CompTIA makes a pass mean the same thing on every form. CompTIA states that it does not disclose the number of questions required to pass.
+Because of the scaling, you cannot turn 750 into "you need 83% right". As we understand it (our reading, not a CompTIA statement), different exam forms can differ slightly in difficulty, and the scaling is how CompTIA makes a pass mean the same thing on every form. CompTIA states that it does not disclose the number of questions required to pass.
 
 ## What CompTIA does not publish
 

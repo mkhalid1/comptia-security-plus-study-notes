@@ -459,7 +459,7 @@ E. A higher MTBF means a component fails more often.
 
 1. Redo any item you missed without opening the explanation, and write the trap you fell for in one line.
 2. Pick one system you use at work or home and write a mini risk register entry for it: the risk, its owner, likelihood, impact, an SLE and ALE estimate, and which of the four strategies you would choose.
-3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practise pacing across the whole exam.
+3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practice pacing across the whole exam.
 
 ---
 

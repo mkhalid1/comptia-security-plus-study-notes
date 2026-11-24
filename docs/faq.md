@@ -68,7 +68,7 @@ No. There is no age requirement for Security+ or for security jobs. Many people 
 
 CompTIA sells its own learning products. These notes do not cover them. In this repo, every domain page has original practice items with explanations, and there is a [diagnostic](diagnostic.md).
 
-## Where can I practise for free?
+## Where can I practice for free?
 
 Start with the [diagnostic](diagnostic.md) and the practice items on each domain page in this repo. For a timed run in the real format, take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus).
 

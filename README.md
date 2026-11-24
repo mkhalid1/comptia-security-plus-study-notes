@@ -55,7 +55,7 @@ Every domain guide has the same parts: what the domain measures (objective by ob
   - [How the objectives document works](docs/exam-overview.md#how-the-objectives-document-works)
   - [Booking and taking the exam](docs/exam-overview.md#booking-and-taking-the-exam)
   - [Retakes and renewal](docs/exam-overview.md#retakes-and-renewal)
-  - [Practise the real format](docs/exam-overview.md#practise-the-real-format)
+  - [Practice the real format](docs/exam-overview.md#practice-the-real-format)
 - [SY0-701 or SY0-801: which version to take](docs/which-version.md)
   - [The two versions side by side](docs/which-version.md#the-two-versions-side-by-side)
   - [How the domains changed](docs/which-version.md#how-the-domains-changed)
@@ -127,7 +127,7 @@ Every domain guide has the same parts: what the domain measures (objective by ob
   - [How to approach a PBQ](docs/performance-based-questions.md#how-to-approach-a-pbq)
   - [Practice task 1: order the steps](docs/performance-based-questions.md#practice-task-1-order-the-steps)
   - [Practice task 2: build a firewall rule set](docs/performance-based-questions.md#practice-task-2-build-a-firewall-rule-set)
-  - [Practise under time](docs/performance-based-questions.md#practise-under-time)
+  - [Practice under time](docs/performance-based-questions.md#practice-under-time)
 - [How Security+ scoring works](docs/scoring.md)
   - [The scaled score](docs/scoring.md#the-scaled-score)
   - [What CompTIA does not publish](docs/scoring.md#what-comptia-does-not-publish)
@@ -170,7 +170,7 @@ Every domain guide has the same parts: what the domain measures (objective by ob
   - [What happens if I fail?](docs/faq.md#what-happens-if-i-fail)
   - [Is 25 (or 35, or 45) too late to start in cybersecurity?](docs/faq.md#is-25-or-35-or-45-too-late-to-start-in-cybersecurity)
   - [Is there an official practice test?](docs/faq.md#is-there-an-official-practice-test)
-  - [Where can I practise for free?](docs/faq.md#where-can-i-practise-for-free)
+  - [Where can I practice for free?](docs/faq.md#where-can-i-practice-for-free)
 - [Glossary](docs/glossary.md)
 - [Sources](docs/sources.md)
   - [CompTIA exam pages](docs/sources.md#comptia-exam-pages)
@@ -189,7 +189,7 @@ Every domain guide has the same parts: what the domain measures (objective by ob
 - **Test yourself honestly.** Answers are hidden under "Answer and explanation". Commit to an answer before you open it.
 - **Read every explanation,** including for items you got right. Each one says why every wrong option is wrong, which is where most of the learning is.
 - **Keep a miss log.** For each miss, write what you confused and the word in the stem that should have stopped you. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the content. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus), teaches the pace.
+- **Practice timed.** The notes teach the content. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus), teaches the pace.
 - **Clone or fork it** to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

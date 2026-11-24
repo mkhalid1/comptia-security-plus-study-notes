@@ -90,7 +90,7 @@ Order: **b, c, e.** Rule b allows HTTPS from anywhere. Rule c allows SSH from th
 
 </details>
 
-## Practise under time
+## Practice under time
 
 PBQ skill improves fastest with timed practice. Work through the domain items in this repo, then take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) and check your pace against the plan above.
 
