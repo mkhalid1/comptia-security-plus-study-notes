@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 4: Security Operations](4-security-operations.md) · Next: [Performance-based questions and pacing](../performance-based-questions.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 4: Security Operations](4-security-operations.md) · Next: [Performance-based questions and pacing](../performance-based-questions.md)
+<!-- /nav:top -->
 
 # Domain 5: Security Program Management and Oversight
 
@@ -328,4 +330,6 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 4: Security Operations](4-security-operations.md) | Next: [Performance-based questions and pacing](../performance-based-questions.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 4: Security Operations](4-security-operations.md) | Next: [Performance-based questions and pacing](../performance-based-questions.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

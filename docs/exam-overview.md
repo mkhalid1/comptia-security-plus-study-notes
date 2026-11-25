@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [SY0-701 or SY0-801: which version to take](which-version.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [SY0-701 or SY0-801: which version to take](which-version.md)
+<!-- /nav:top -->
 
 # The Security+ SY0-701 exam explained
 
@@ -67,4 +69,6 @@ Reading teaches the content; timed practice teaches the pace. When you have work
 
 ---
 
-<!-- nav:bottom -->Next: [SY0-701 or SY0-801: which version to take](which-version.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [SY0-701 or SY0-801: which version to take](which-version.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

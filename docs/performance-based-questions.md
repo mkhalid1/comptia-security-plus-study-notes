@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Domain 5: Security Program Management and Oversight](domains/5-security-program-management-and-oversight.md) · Next: [How Security+ scoring works](scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Domain 5: Security Program Management and Oversight](domains/5-security-program-management-and-oversight.md) · Next: [How Security+ scoring works](scoring.md)
+<!-- /nav:top -->
 
 # Performance-based questions and pacing
 
@@ -46,4 +48,6 @@ PBQ skill improves fastest with timed practice. Work through the domain items in
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 5: Security Program Management and Oversight](domains/5-security-program-management-and-oversight.md) | Next: [How Security+ scoring works](scoring.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 5: Security Program Management and Oversight](domains/5-security-program-management-and-oversight.md) | Next: [How Security+ scoring works](scoring.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

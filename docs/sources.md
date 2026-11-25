@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # Sources
 
@@ -39,4 +41,6 @@ These notes are independent and are not affiliated with, endorsed by or sponsore
 
 ---
 
-<!-- nav:bottom -->← Previous: [Glossary](glossary.md) | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Glossary](glossary.md) | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

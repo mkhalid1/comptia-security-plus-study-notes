@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [SY0-701 or SY0-801: which version to take](which-version.md) · Next: [Domain 1: General Security Concepts](domains/1-general-security-concepts.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [SY0-701 or SY0-801: which version to take](which-version.md) · Next: [Domain 1: General Security Concepts](domains/1-general-security-concepts.md)
+<!-- /nav:top -->
 
 # 5-minute diagnostic
 
@@ -163,4 +165,6 @@ Then pick a plan: the [7-day plan](study-plans.md#7-day-plan) if you have a week
 
 ---
 
-<!-- nav:bottom -->← Previous: [SY0-701 or SY0-801: which version to take](which-version.md) | Next: [Domain 1: General Security Concepts](domains/1-general-security-concepts.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [SY0-701 or SY0-801: which version to take](which-version.md) | Next: [Domain 1: General Security Concepts](domains/1-general-security-concepts.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

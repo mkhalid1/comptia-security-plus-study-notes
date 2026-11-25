@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [5-minute diagnostic](../diagnostic.md) · Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md)
+<!-- /nav:top -->
 
 # Domain 1: General Security Concepts
 
@@ -326,4 +328,6 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 ---
 
-<!-- nav:bottom -->← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [5-minute diagnostic](../diagnostic.md) | Next: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

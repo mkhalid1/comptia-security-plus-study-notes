@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) · Next: [Domain 4: Security Operations](4-security-operations.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) · Next: [Domain 4: Security Operations](4-security-operations.md)
+<!-- /nav:top -->
 
 # Domain 3: Security Architecture
 
@@ -303,4 +305,6 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) | Next: [Domain 4: Security Operations](4-security-operations.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 2: Threats, Vulnerabilities, and Mitigations](2-threats-vulnerabilities-and-mitigations.md) | Next: [Domain 4: Security Operations](4-security-operations.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

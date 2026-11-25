@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 1: General Security Concepts](1-general-security-concepts.md) · Next: [Domain 3: Security Architecture](3-security-architecture.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 1: General Security Concepts](1-general-security-concepts.md) · Next: [Domain 3: Security Architecture](3-security-architecture.md)
+<!-- /nav:top -->
 
 # Domain 2: Threats, Vulnerabilities, and Mitigations
 
@@ -315,4 +317,6 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 1: General Security Concepts](1-general-security-concepts.md) | Next: [Domain 3: Security Architecture](3-security-architecture.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 1: General Security Concepts](1-general-security-concepts.md) | Next: [Domain 3: Security Architecture](3-security-architecture.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

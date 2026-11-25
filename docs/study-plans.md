@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [How Security+ scoring works](scoring.md) · Next: [Security+ for DoD and government contractor roles](dod-8140.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [How Security+ scoring works](scoring.md) · Next: [Security+ for DoD and government contractor roles](dod-8140.md)
+<!-- /nav:top -->
 
 # Study plans: 7 days and 2 days
 
@@ -62,4 +64,6 @@ For when the exam is already booked and close.
 
 ---
 
-<!-- nav:bottom -->← Previous: [How Security+ scoring works](scoring.md) | Next: [Security+ for DoD and government contractor roles](dod-8140.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [How Security+ scoring works](scoring.md) | Next: [Security+ for DoD and government contractor roles](dod-8140.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Exam-day checklist](exam-day-checklist.md) · Next: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Exam-day checklist](exam-day-checklist.md) · Next: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # FAQ
 
@@ -74,4 +76,6 @@ Start with the [diagnostic](diagnostic.md) and the practice items on each domain
 
 ---
 
-<!-- nav:bottom -->← Previous: [Exam-day checklist](exam-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Exam-day checklist](exam-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

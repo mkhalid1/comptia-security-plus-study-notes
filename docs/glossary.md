@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [FAQ](faq.md) · Next: [Sources](sources.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [FAQ](faq.md) · Next: [Sources](sources.md)
+<!-- /nav:top -->
 
 # Glossary
 
@@ -95,4 +97,6 @@ Short definitions of terms that come up on SY0-701. Most acronyms here appear in
 
 ---
 
-<!-- nav:bottom -->← Previous: [FAQ](faq.md) | Next: [Sources](sources.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [FAQ](faq.md) | Next: [Sources](sources.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

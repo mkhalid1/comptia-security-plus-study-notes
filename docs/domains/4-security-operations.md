@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Domain 3: Security Architecture](3-security-architecture.md) · Next: [Domain 5: Security Program Management and Oversight](5-security-program-management-and-oversight.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Domain 3: Security Architecture](3-security-architecture.md) · Next: [Domain 5: Security Program Management and Oversight](5-security-program-management-and-oversight.md)
+<!-- /nav:top -->
 
 # Domain 4: Security Operations
 
@@ -411,4 +413,6 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 ---
 
-<!-- nav:bottom -->← Previous: [Domain 3: Security Architecture](3-security-architecture.md) | Next: [Domain 5: Security Program Management and Oversight](5-security-program-management-and-oversight.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Domain 3: Security Architecture](3-security-architecture.md) | Next: [Domain 5: Security Program Management and Oversight](5-security-program-management-and-oversight.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
