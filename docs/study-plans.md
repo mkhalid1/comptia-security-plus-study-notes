@@ -18,7 +18,7 @@ Expect 1.5 to 3 hours a day.
 | 2 | Domain 4 (28%) | Read [Security Operations](domains/4-security-operations.md) in full. Do all 4 items. Write the incident response steps and the MFA factor categories from memory. |
 | 3 | Domains 2 and 1 (22% and 12%) | Read [Threats, Vulnerabilities, and Mitigations](domains/2-threats-vulnerabilities-and-mitigations.md), then [General Security Concepts](domains/1-general-security-concepts.md). Do both item sets. Make flash cards for malware types, attack indicators and crypto terms. |
 | 4 | Domains 5 and 3 (20% and 18%) | Read [Program Management and Oversight](domains/5-security-program-management-and-oversight.md) and [Security Architecture](domains/3-security-architecture.md). Do both item sets. Redo the SLE and ALE worked examples on paper. |
-| 5 | First timed run | Take a full timed practice test, such as the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus). Score it by domain. Read [performance-based questions and pacing](performance-based-questions.md). |
+| 5 | First timed run | Take a full timed practice test, such as the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus). Score it by domain. Read [performance-based questions and pacing](performance-based-questions.md). |
 | 6 | Fix the weakest heavy domain | Go back to the weakest domain from day 5. Reread its "Traps that cost points" and redo its items without the answers. |
 | 7 | Second timed run and rest | Take a second timed test in the morning. Compare domain scores with day 5. Read the [exam-day checklist](exam-day-checklist.md). Stop studying by early evening. |
 
@@ -43,7 +43,7 @@ For when the exam is already booked and close.
 | 1 | 10 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 40 min | Read "Key concepts" in [Domain 4](domains/4-security-operations.md), the heaviest domain, focusing on incident response, identity and email security. |
 | 3 | 45 min | Read "Traps that cost points" on all five domain pages, then do the practice items for your two weakest domains. Read every explanation. |
-| 4 | 60 to 90 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus). |
+| 4 | 60 to 90 min | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus). |
 | 5 | 30 min | Review every miss with the three questions above. |
 
 ### Day 2: sit the exam

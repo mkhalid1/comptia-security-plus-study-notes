@@ -8,7 +8,7 @@ Five original items, one from each SY0-701 domain, to show you where to start. S
 
 These items are original, written for these notes. They are not taken from CompTIA's exam or any prep provider. They are different from the practice items on the domain pages, so you can still use those afterwards.
 
-If you would rather start with a full timed run in the real format, take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) instead, then come back here.
+If you would rather start with a full timed run in the real format, take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) instead, then come back here.
 
 ## Part A: Domain 1, General Security Concepts
 
@@ -135,7 +135,7 @@ D. SLA
 
 </details>
 
-Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
 
 ## Answer key
 

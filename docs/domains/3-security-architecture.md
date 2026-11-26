@@ -284,7 +284,7 @@ E. In SaaS, the provider is responsible for deciding which employees get account
 
 </details>
 
-Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
 
 ## Score yourself
 
@@ -301,7 +301,7 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 1. Redo any item you missed without opening the explanation, and write the trap you fell for in one line.
 2. Write the IaaS, PaaS and SaaS responsibility matrix from memory, then check it against the table above.
-3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practice pacing across the whole exam.
+3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) to practice pacing across the whole exam.
 
 ---
 

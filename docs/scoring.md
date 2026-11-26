@@ -33,7 +33,7 @@ An unanswered question cannot earn credit. If you are running out of time, make 
 
 This is our guidance, since CompTIA publishes no conversion from practice scores. Because the real passing point is not published as a percentage, aim to score **comfortably above 80%** on practice items you have not seen before, under time pressure, and to be consistent across domains rather than very strong in one and weak in another. A weak domain with a heavy weight, such as Security Operations at 28%, can sink an otherwise good attempt.
 
-Use the score tables at the end of each domain page to track this, and a full timed run such as the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to check pace.
+Use the score tables at the end of each domain page to track this, and a full timed run such as the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) to check pace.
 
 ## If you do not pass
 

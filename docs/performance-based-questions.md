@@ -44,7 +44,7 @@ On average across the exam, you have about one minute per question. Short defini
 
 ## Practice under time
 
-PBQ skill improves fastest with timed practice. Work through the domain items in this repo, then take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) and check your pace against the plan above.
+PBQ skill improves fastest with timed practice. Work through the domain items in this repo, then take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) and check your pace against the plan above.
 
 ---
 

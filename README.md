@@ -4,7 +4,7 @@ A free, complete study guide for the CompTIA Security+ SY0-701 exam. For each of
 
 > **Version note.** CompTIA launched Security+ **SY0-801** on November 17, 2026. **SY0-701** stays available until June 11, 2027 (English) and August 13, 2027 (Japanese, Portuguese, Spanish, Thai). These notes cover SY0-701. Not sure which to book? Read [SY0-701 or SY0-801](docs/which-version.md).
 
-Want to see where you stand first? Take the [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus), or the shorter [5-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -187,7 +187,7 @@ Every domain guide has the same parts: what the domain measures (objective by ob
 - **Test yourself honestly.** Answers are hidden under "Answer and explanation". Commit to an answer before you open it.
 - **Read every explanation,** including for items you got right. Each one says why every wrong option is wrong, which is where most of the learning is.
 - **Keep a miss log.** For each miss, write what you confused and the word in the stem that should have stopped you. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practice timed.** The notes teach the content. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus), teaches the pace.
+- **Practice timed.** The notes teach the content. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus), teaches the pace.
 - **Clone or fork it** to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

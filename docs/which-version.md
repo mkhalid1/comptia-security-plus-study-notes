@@ -48,7 +48,7 @@ If your exam needs a non-English language, note that CompTIA lists SY0-801 in En
 
 ## What these notes cover
 
-Every domain page, practice item and study plan in this repo follows the SY0-701 objectives. If you choose SY0-801, the [free SY0-701 practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) and these notes are still useful for core concepts, but check every topic against the 801 objectives.
+Every domain page, practice item and study plan in this repo follows the SY0-701 objectives. If you choose SY0-801, the [free SY0-701 practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) and these notes are still useful for core concepts, but check every topic against the 801 objectives.
 
 ---
 

@@ -307,7 +307,7 @@ E. Self-signed certificates are trusted by browsers without any extra setup.
 
 </details>
 
-Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
+Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) has 25 questions across all five domains, with your score split by domain.
 
 ## Score yourself
 
@@ -324,7 +324,7 @@ Want more? The [free timed Security+ (SY0-701) practice test on PrepClubs](https
 
 1. Redo any item you missed without opening the explanation, and write the trap you fell for in one line.
 2. Open a website in your browser, view its certificate, and find the issuer, the validity dates, the subject alternative names and whether it chains to a root you trust. Then explain each field in one sentence.
-3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to practice pacing across the whole exam.
+3. Take a timed run with the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) to practice pacing across the whole exam.
 
 ---
 

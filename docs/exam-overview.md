@@ -65,7 +65,7 @@ You can sit the exam at a Pearson VUE test center or online through OnVUE. Onlin
 
 ## Practice the real format
 
-Reading teaches the content; timed practice teaches the pace. When you have worked through a few domains, take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=security-plus) to see how you do against the clock, then use the [diagnostic](diagnostic.md) and the domain score tables to decide what to study next.
+Reading teaches the content; timed practice teaches the pace. When you have worked through a few domains, take the [free Security+ (SY0-701) practice test on PrepClubs](https://prepclubs.com/free-practice-tests/security-plus?utm_source=github&utm_medium=referral&utm_campaign=4s76wr&utm_content=security-plus) to see how you do against the clock, then use the [diagnostic](diagnostic.md) and the domain score tables to decide what to study next.
 
 ---
 
